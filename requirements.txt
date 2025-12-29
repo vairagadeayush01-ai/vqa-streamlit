@@ -1,0 +1,8 @@
+streamlit
+torch
+torchvision
+transformers
+Pillow
+numpy
+opencv-python
+requests
