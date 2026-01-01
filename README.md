@@ -137,7 +137,7 @@ bash
 - 💠Max Question Length: 21 tokens
 - 💠Answer Vocabulary Size: Top-3000
 ---
-🧪 Key Learnings
+### 🧪 Key Learnings
 - Built an end-to-end multimodal deep learning system
 - Integrated CNN and Transformer-based encoders
 - Implemented spatial attention and gated fusion
@@ -145,7 +145,7 @@ bash
 - Designed a deployable inference pipeline
 - Built an interactive Streamlit demo
 ---
-🔮 Future Work
+### 🔮 Future Work
 
 - Replace ResNet50 with Vision Transformer (ViT)
 - Increase answer vocabulary size (3k → 5k)
@@ -153,17 +153,20 @@ bash
 - Experiment with advanced fusion methods (BAN, MCB)
 - Explore multimodal transformers (ViLBERT, LXMERT)
 ---
-📚 References
+### 📚 References
 
 - VQA v2 Dataset – Agrawal et al.
 - Deep Residual Learning for Image Recognition – He et al.
 - BERT: Pre-training of Deep Bidirectional Transformers – Devlin et al.
 - Making the V in VQA Matter – Goyal et al.
 ---
-🤝 Contributing
+### 🤝 Contributing
 
 - Contributions are welcome!
 - Fork the repository
 - Create a feature branch
 - Commit your changes
 - Open a Pull Request
+---
+### 💬Contact
+-- For questions or feedback, please open an issue on GitHub.
